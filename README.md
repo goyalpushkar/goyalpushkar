@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Fact Veriication Project
+- 🌱 I’m currently learning to integrate available Artificial intelligence libraries to make a generic purpose application
+- 👯 I’m looking to collaborate with others on the Artificial intelligence projects
+  
+- 📫 How to reach me:
+- Linkedin - www.linkedin.com/in/goyalpushkar
+
 <!--
 **goyalpushkar/goyalpushkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
